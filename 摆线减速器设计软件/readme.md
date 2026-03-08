@@ -1,1 +1,1 @@
-第一版摆线减速器设计软件在release中，名为
+第一版摆线减速器设计软件在release中，名为CycloidDesign-v1.0
